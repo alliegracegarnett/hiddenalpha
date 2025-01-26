@@ -1,0 +1,49 @@
+cd C:\Users\Allie\Documents\Python_projects\Hidden_Alpha
+
+X API key 9hPRPwjhQy24w0C9UFB2ZbgYD
+X API Key Secret TY50p6xBN2Vs503P1Iotv0DDXWxu1tGsz9Np7D4LmYqpIItR8D
+bearer token AAAAAAAAAAAAAAAAAAAAAOqZxwEAAAAANF8FtxeB%2FmNN5ZFBgYgDiiFdJYI%3D45oYjiEKKfzehLts6zxwunz8mwnEuVoXo4X0Q6p3XBfag8Usjv
+access token 1758693821796306944-hH9EpKP57nGqFRpbUSzgcm6C2yTNc6
+access token secret 47opJbzxYKu0HHMhACQgglruYH1MsDXI8QypCrVe3T9B9
+
+Ngrok token: ngrok config add-authtoken 2rXOU8BQif6DB0vKgobjGfN9jrl_42HKhNYw8uApPcPUrSsUG
+Public URL https://2ab9-190-93-83-7.ngrok-free.app
+
+OAuth client ID eW1oTnFMcmpaQTA4RS1NSUVXOUc6MTpjaQ
+Client secret MIcKor_OZIrfoyaMEDVorSTtbQMYrwptMNeWpn6sRkSbJeNfag
+
+
+curl -k -X GET "https://api.twitter.com/2/users/by/username/web3_allieg" -H "Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAOqZxwEAAAAANF8FtxeB%2FmNN5ZFBgYgDiiFdJYI%3D45oYjiEKKfzehLts6zxwunz8mwnEuVoXo4X0Q6p3XBfag8Usjv"
+
+NVIDIA Quadro RTX 3000
+
+
+Step 1: Fetch Users Followed by Whitelisted Accounts
+Step 2: Filter by Follower Count (<2000)
+Step 3: Fetch Tweets from Filtered Users
+Step 4: Integrate with Existing Analysis Workflow
+
+ADDITIONAL BIG
+RAnSacks
+adam__xyz
+kalashnikovapv
+KyleReidhead
+divine_economy
+0xMert_
+reka_eth
+gregosuri
+AlexOnchain
+howdymerry
+growing_daniel
+KseniiaBaziian
+amandacassatt
+ekrahm
+jkey_eth
+emilyxlai
+abruzuc
+jessepollak
+clairekart
+Tim_4444
+AsafNadler
+ricedelman
+jonwu_
